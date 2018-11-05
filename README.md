@@ -1,2 +1,2 @@
 # project
-there are some project for companies
+here are some projects for companies
